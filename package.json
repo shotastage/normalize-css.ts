@@ -1,5 +1,5 @@
 {
-  "name": "normalize.ts",
+  "name": "normalize-css.ts",
   "version": "0.0.1",
   "description": "Inline styled normalize.css written in TypeScript.",
   "main": "dist/normalize.js",
