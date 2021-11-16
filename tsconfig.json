@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./src/",
+        "target": "es5",
+        "lib": [
+            "dom",
+            "dom.iterable",
+            "esnext"
+        ],
+        "outDir": "./dist/",
+        "sourceMap": true,
+        "declaration": true,
+        "module": "esnext",
+        "moduleResolution": "node",
+        "strict": true,
+        "allowJs": true,
+        "jsx": "react-jsx",
+    },
+    "include": [
+        "src"
+    ]
+}
